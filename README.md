@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="80px"></h2>
 
-<img align='right' src='https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='80px"'>
 
 [Instagram](https://instagram.com/code_with_rohit?igshid=71vfqs608pnw)
 
